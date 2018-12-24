@@ -26,7 +26,7 @@ function inputLength() {
 	return input.value.length;
 }
 function createButten() {
-	var bt = document.createElement("button");
+	var bt = document.createElement("button！！！");
 	bt.innerText = "Delete";
 	bt.onclick= removeParent;
 	return bt;
